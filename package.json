@@ -1,0 +1,15 @@
+{
+  "name": "two-d-matrix-challenge",
+  "version": "1.0.0",
+  "description": "Morning challenge on grids",
+  "main": "matrix.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "grid",
+    "challenge"
+  ],
+  "author": "Oksana V. Harris",
+  "license": "ISC"
+}
